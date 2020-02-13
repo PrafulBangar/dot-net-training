@@ -1,0 +1,5 @@
+C:\Users\Evision\Desktop\Praful@013\Greetings\Greetings\bin\Debug\Greetings.exe.config
+C:\Users\Evision\Desktop\Praful@013\Greetings\Greetings\bin\Debug\Greetings.exe
+C:\Users\Evision\Desktop\Praful@013\Greetings\Greetings\bin\Debug\Greetings.pdb
+C:\Users\Evision\Desktop\Praful@013\Greetings\Greetings\obj\Debug\Greetings.exe
+C:\Users\Evision\Desktop\Praful@013\Greetings\Greetings\obj\Debug\Greetings.pdb
